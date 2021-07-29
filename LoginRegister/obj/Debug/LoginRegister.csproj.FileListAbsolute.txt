@@ -10,3 +10,29 @@ C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\FireSharp.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.App.config
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.AssemblyReference.cache
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\sezaroo\log\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.pdb
